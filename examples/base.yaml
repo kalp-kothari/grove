@@ -1,0 +1,6 @@
+database:
+  host: db.internal
+  port: 5432
+server:
+  host: localhost
+  port: 5050
